@@ -2,7 +2,7 @@
 
 
 >[!Tip]
->Jump site:[Click Here to start hosting your bot.](Https://www.tetbot.onrender.com)
+>Jump to site:[Click Here to start hosting your bot.](https://tetbot.onrender.com)
 >
 ***User Guide: Adding Commands to Your Telegram Bot***
 
