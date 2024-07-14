@@ -1,8 +1,8 @@
 ![ Tetbot ](/visuals/tetbot.jpg)
 
 
->[!Skip to site]
->Jump site: (tetbot.onrender.com)
+>[!Tip]
+>Jump site:[Click Here to start hosting your bot.](Https://www.tetbot.onrender.com)
 >
 ***User Guide: Adding Commands to Your Telegram Bot***
 
