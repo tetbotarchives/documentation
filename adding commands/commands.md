@@ -1,7 +1,7 @@
 ![ Tetbot ](/visuals/tetbot.jpg)
 
 
->![Important](l
+>![Important]
 >Jump site: (tetbot.onrender.com)
 >
 ***User Guide: Adding Commands to Your Telegram Bot***
