@@ -1,4 +1,4 @@
-![ Tetbot ](visuals/tetbot.jpg)
+![ Tetbot ](/visuals/tetbot.jpg)
 
 ***User Guide: Adding Commands to Your Telegram Bot***
 
